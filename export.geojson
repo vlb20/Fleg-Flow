@@ -1,0 +1,942 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-12T15:35:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325239246",
+        "name": "Piave",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3970473",
+        "wikipedia": "it:Stazione di Piave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2065388,
+          40.8429135
+        ]
+      },
+      "id": "node/325239246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325240435",
+        "name": "Soccavo",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3971007",
+        "wikipedia": "it:Stazione di Soccavo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2006167,
+          40.8439578
+        ]
+      },
+      "id": "node/325240435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325241055",
+        "name": "Traiano",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3971172",
+        "wikipedia": "it:Stazione di Traiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1941085,
+          40.8450687
+        ]
+      },
+      "id": "node/325241055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325241710",
+        "name": "La Trencia",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969897",
+        "wikipedia": "it:Stazione di La Trencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1719378,
+          40.8540341
+        ]
+      },
+      "id": "node/325241710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/326209133",
+        "addr:city": "Arco felice",
+        "addr:postcode": "80078",
+        "addr:street": "Via Raimondo Anechinno",
+        "internet_access": "no",
+        "interval": "20",
+        "name": "Arco Felice",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3968891",
+        "wikipedia": "it:Stazione di Arco Felice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1015092,
+          40.8328497
+        ]
+      },
+      "id": "node/326209133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329653476",
+        "name": "Licola",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969956",
+        "wikipedia": "it:Stazione di Licola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0589519,
+          40.8714621
+        ]
+      },
+      "id": "node/329653476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329659352",
+        "name": "Marina di Licola",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970049",
+        "wikipedia": "it:Stazione di Marina di Licola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0480777,
+          40.8631384
+        ]
+      },
+      "id": "node/329659352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329701822",
+        "name": "Bagnoli-Città della Scienza",
+        "network": "Cumana",
+        "operator": "EAV",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3968948",
+        "wikipedia": "it:Stazione di Bagnoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1667879,
+          40.8151034
+        ]
+      },
+      "id": "node/329701822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/434789470",
+        "name": "Mostra - Stadio Maradona",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3970236",
+        "wikimedia_commons": "Category:Mostra train station",
+        "wikipedia": "it:Stazione di Mostra-Stadio Maradona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1932039,
+          40.8245648
+        ]
+      },
+      "id": "node/434789470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/434789521",
+        "name": "Agnano",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3968832",
+        "wikipedia": "it:Stazione di Agnano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1763585,
+          40.8176973
+        ]
+      },
+      "id": "node/434789521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663077724",
+        "name": "Lala",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3826234",
+        "wikipedia": "it:Lala (metropolitana di Napoli)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2045656,
+          40.8268186
+        ]
+      },
+      "id": "node/663077724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663078054",
+        "name": "Mergellina",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "it.wikipedia",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3855118",
+        "wikipedia": "it:Mergellina (metropolitana di Napoli)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2173675,
+          40.830597
+        ]
+      },
+      "id": "node/663078054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663078056",
+        "name": "Augusto",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3629576",
+        "wikipedia": "it:Augusto (metropolitana di Napoli)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1983167,
+          40.8261854
+        ]
+      },
+      "id": "node/663078056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/972220234",
+        "name": "Pisani",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970501",
+        "wikipedia": "it:Stazione di Pisani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1435942,
+          40.8652869
+        ]
+      },
+      "id": "node/972220234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1037516419",
+        "name": "Quarto Officina",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970621",
+        "wikipedia": "it:Stazione di Quarto Officina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1259153,
+          40.879101
+        ]
+      },
+      "id": "node/1037516419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1090940332",
+        "layer": "-1",
+        "name": "Fuorigrotta",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3969667",
+        "wikipedia": "it:Stazione di Fuorigrotta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2017898,
+          40.8279208
+        ]
+      },
+      "id": "node/1090940332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1338235385",
+        "name": "Zoo-Edenlandia",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3971386",
+        "wikipedia": "it:Stazione di Zoo-Edenlandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.183488,
+          40.8203083
+        ]
+      },
+      "id": "node/1338235385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1338235386",
+        "name": "Dazio",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969513",
+        "wikipedia": "it:Stazione di Dazio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1600761,
+          40.8172505
+        ]
+      },
+      "id": "node/1338235386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1338239162",
+        "name": "Gerolomini",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969723",
+        "wikipedia": "it:Stazione di Gerolomini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.135198,
+          40.8206808
+        ]
+      },
+      "id": "node/1338239162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1462124085",
+        "name": "Torregaveta",
+        "operator": "EAV",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q3971156",
+        "wikipedia": "it:Stazione di Torregaveta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0448721,
+          40.811495
+        ]
+      },
+      "id": "node/1462124085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463003360",
+        "name": "Grotta del Sole",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969759",
+        "wikipedia": "it:Stazione di Grotta del Sole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0946728,
+          40.8785138
+        ]
+      },
+      "id": "node/1463003360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463010430",
+        "name": "Cuma",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969501",
+        "wikipedia": "it:Stazione di Cuma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0488298,
+          40.8491369
+        ]
+      },
+      "id": "node/1463010430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463010431",
+        "name": "Lido Fusaro",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969958",
+        "wikipedia": "it:Stazione di Lido Fusaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0498377,
+          40.8288802
+        ]
+      },
+      "id": "node/1463010431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1480005815",
+        "name": "Lucrino",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3969984",
+        "wikipedia": "it:Stazione di Lucrino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0834472,
+          40.8292497
+        ]
+      },
+      "id": "node/1480005815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2222489008",
+        "amenity": "bus_station",
+        "name": "Via Fasano - Fermata Terminale",
+        "operator": "CTP",
+        "ref": "5674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1182136,
+          40.828563
+        ]
+      },
+      "id": "node/2222489008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2508231616",
+        "amenity": "bus_station",
+        "name": "Dazio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.159548,
+          40.8171656
+        ]
+      },
+      "id": "node/2508231616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2604961965",
+        "amenity": "bus_station",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Piazzale Tecchio",
+        "operator": "ANM/EAV/CTP",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1942635,
+          40.8229558
+        ]
+      },
+      "id": "node/2604961965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3664620296",
+        "amenity": "bus_station",
+        "bench": "no",
+        "covered": "no",
+        "name": "Via Bovio - Terminale Civico N° 5F",
+        "operator": "CTP/EAV",
+        "ref": "3457",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.094447,
+          40.877367
+        ]
+      },
+      "id": "node/3664620296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4212162783",
+        "harbour": "yes",
+        "name": "Porto di Miseno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0811085,
+          40.7905562
+        ]
+      },
+      "id": "node/4212162783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4212162787",
+        "amenity": "bus_station",
+        "bench": "yes",
+        "bench:covered": "yes",
+        "bus": "yes",
+        "check_date": "2024-12-01",
+        "covered": "no",
+        "name": "Capolinea Miseno",
+        "operator": "EAV",
+        "public_transport": "station",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.082248,
+          40.7870145
+        ]
+      },
+      "id": "node/4212162787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4217402489",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Capolinea Cuma Scavi",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0584892,
+          40.846792
+        ]
+      },
+      "id": "node/4217402489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4224181166",
+        "amenity": "bus_station",
+        "bench": "no",
+        "covered": "no",
+        "name": "Via S.Maria - Capolinea Piazzale",
+        "operator": "CTP",
+        "ref": "4000",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1482204,
+          40.8788775
+        ]
+      },
+      "id": "node/4224181166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4936292644",
+        "name": "Pianura",
+        "network": "Circumflegrea",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3970470",
+        "wikipedia": "it:Stazione di Pianura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1624307,
+          40.8560001
+        ]
+      },
+      "id": "node/4936292644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6536935424",
+        "name": "Napoli Mergellina",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q3970277",
+        "wikipedia": "it:Stazione di Napoli Mergellina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2187034,
+          40.8315681
+        ]
+      },
+      "id": "node/6536935424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6817740560",
+        "name": "Napoli Campi Flegrei",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3970272",
+        "wikipedia": "it:Stazione di Napoli Campi Flegrei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1946381,
+          40.8221756
+        ]
+      },
+      "id": "node/6817740560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6817755819",
+        "name": "Bagnoli-Agnano Terme",
+        "operator": "RFI",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3968951",
+        "wikipedia": "it:Stazione di Bagnoli-Agnano Terme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1666694,
+          40.8194209
+        ]
+      },
+      "id": "node/6817755819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6817760441",
+        "name": "Napoli Piazza Leopardi",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3970282",
+        "wikipedia": "it:Stazione di Napoli Piazza Leopardi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.199742,
+          40.8240468
+        ]
+      },
+      "id": "node/6817760441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6817792727",
+        "name": "Pozzuoli Solfatara",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikidata": "Q3970598",
+        "wikipedia": "it:Stazione di Pozzuoli Solfatara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1260691,
+          40.8276089
+        ]
+      },
+      "id": "node/6817792727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7884684060",
+        "name": "Mostra",
+        "operator": "ANM",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3866164",
+        "wikipedia": "it:Mostra (metropolitana di Napoli)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1936564,
+          40.8243372
+        ]
+      },
+      "id": "node/7884684060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8278678762",
+        "name": "Cavalleggeri Aosta",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3969355",
+        "wikipedia": "it:Stazione di Cavalleggeri Aosta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.18763,
+          40.8198824
+        ]
+      },
+      "id": "node/8278678762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8748727887",
+        "name": "Fusaro",
+        "network": "Cumana",
+        "operator": "EAV",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q3969668",
+        "wikipedia": "it:Stazione di Fusaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0617293,
+          40.8185701
+        ]
+      },
+      "id": "node/8748727887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9126513777",
+        "addr:city": "Pozzuoli",
+        "addr:housenumber": "230",
+        "addr:street": "Via Campana",
+        "name": "Via Campana",
+        "operator": "RFI",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q33104084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1206014,
+          40.8533089
+        ]
+      },
+      "id": "node/9126513777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12741150790",
+        "emergency": "assembly_point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1851391,
+          40.7942673
+        ]
+      },
+      "id": "node/12741150790"
+    }
+  ]
+}
