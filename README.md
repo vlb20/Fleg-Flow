@@ -7,7 +7,7 @@ Modellazione, analisi ed ottimizzazione di un piano di evacuazione della popolaz
 **Autori**
 - [**Bruno** Vincenzo Luigi](https://github.com/vlb20)
 - [**Carleo** Cristina](https://github.com/iris-cmd22)
-- [**Castlaldo** Giuseppe](https://github.com/Giuleppe09)
+- [**Castaldo** Giuseppe](https://github.com/Giuleppe09)
 
 ---
 
@@ -82,7 +82,7 @@ Il progetto è diviso in 2 fasi computazionali distinte, implementate in 2 noteb
   1.  Carica il grafo e i dati di sorgenti/pozzi.
   2.  Implementa una **ricerca binaria** sul tempo totale di evacuazione `T`.
   3.  Ad ogni iterazione, risolve un problema di **flusso a costo minimo** utilizzando il solutore **Gurobi** per determinare se un piano è fattibile per il tempo `T` dato.
-  4.  Una volta trovato il tempo minimo di riferimento $T^*$, calcola il piano di flusso ottimale associato.
+  4.  Una volta trovato il tempo minimo di riferimento $$T^*$$, calcola il piano di flusso ottimale associato.
   5.  Analizza il piano, calcolando la **saturazione** di ogni strada per identificare i colli di bottiglia.
 - **Output:**
   - Analisi stampata a console con il tempo di evacuazione stimato e le strade più critiche.
