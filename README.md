@@ -34,7 +34,7 @@ Lo scopo di **Fleg-Flow** è applicare un modello di ottimizzazione su rete per 
 
 La metodologia implementata trae ispirazione principale da:
 - **Fleischer, L., & Skutella, M. (2007). *Quickest Flows Over Time*.**
-    Questo paper fornisce il **framework teorico fondamentale** per il progetto. Nello specifico, è stato implementato l'**algoritmo di 2-approssimazione** descritto nella Sezione 3, che riduce il complesso problema del flusso più rapido a una serie di problemi di flusso a costo minimo, risolvibili efficientemente.
+    Questo paper fornisce il **framework teorico fondamentale** per il progetto. Nello specifico, è stato implementato l'**algoritmo di 2-approssimazione** descritto nella Sezione 3, che riduce il complesso problema del flusso più rapido a una serie di problemi di flusso a costo minimo, risolvibili efficientemente. Nella cartella `riassunto_paper` è possibile leggerne i passaggi principali. 
 
 ### Struttura del Progetto
 
@@ -54,6 +54,9 @@ fleg-flow/
 │   └── mappa_evacuazione.html      # Output Fase 2: Mappa interattiva del piano
 │
 ├── requirements.txt                # Lista delle dipendenze Python per pip
+│
+├──📂 riassunto_paper/
+│    └──Quickest_Flow_Over_Time_paper_resume.pdf #Riassunto articolo di riferimento
 │
 └── README.md                       # Questo file
 ```
