@@ -95,9 +95,12 @@ Questo notebook è il motore di preparazione dei dati. La sua esecuzione è nece
 
 Per utilizzare il file ufficiale del Piano Nazionale Campi Flegrei, è possibile scaricarlo da questo link:
 -   [**Link al GeoJSON della Protezione Civile**](https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_features.json)
+
 Riferimenti protezione civile:
 - [Piano di allontamento autonomo](https://www.google.com/maps/d/viewer?ll=40.84059307964776%2C14.16946397439812&z=14&mid=1n_JP-PcsAYQh8K4aumG51rdpJumEjk4)
 - [Opuscolo Piano reperibile qui](https://www.comune.napoli.it/piano-rischio-Campi-Flegrei)
+
+
 
 #### 2. `fleg_flow.ipynb`
 Questo è il notebook principale per l'analisi. Una volta che i file di input sono stati generati, può essere eseguito più volte per testare diversi scenari senza dover riscaricare o riprocessare la mappa.
