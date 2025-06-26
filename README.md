@@ -1,4 +1,4 @@
-# *Fleg-Flow*: Modello di ottimizzazione per il Piano di Evacuazione bradisismico dei Campi Flegrei
+# *Fleg-Flow*: Modello di ottimizzazione per il Piano di Evacuazione per l'area dei Campi Flegrei
 <img src="https://github.com/user-attachments/assets/751c98e6-170e-4104-9f91-acc6fd844d9e" width="300" alt="Fleg-Flow Logo">
 
 
@@ -24,7 +24,7 @@ Modellazione, analisi ed ottimizzazione di un piano di evacuazione della popolaz
 
 ### Obiettivo del Progetto
 
-Lo scopo di **Fleg-Flow** è applicare un modello di ottimizzazione su rete per analizzare il piano di evacuazione previsto per la crisi bradisismica dei Campi Flegrei. Il progetto si propone di:
+Lo scopo di **Fleg-Flow** è applicare un modello di ottimizzazione su rete per analizzare il piano di evacuazione previsto per la crisi vulcanica dei Campi Flegrei. Il progetto si propone di:
 - **Calcolare il tempo minimo stimato** per evacuare l'intera popolazione della zona rossa e gialla, data la rete stradale e le sue capacità.
 - **Identificare i colli di bottiglia** (strade critiche) che limitano la velocità dell'intera operazione.
 - **Simulare scenari avversi** (es. blocco di strade o capacità ridotte) per valutare la resilienza del piano.
